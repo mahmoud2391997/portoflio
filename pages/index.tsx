@@ -34,7 +34,10 @@ oriented, quick to learn new skills, and eager to contribute. I
 bring a wealth of ideas, enthusiasm, and strong problem-solving
 abilities to the table.
 </p>
-    <button type="button" className="bg-white text-xl font-medium w-52 h-auto">Download CV</button>
+    <button type="button" className="bg-white text-xl font-medium w-52 h-auto" ><a  href="/cv.pdf" download="/cv.pdf">
+      Download CV
+      </a>
+      </button>
   </div>
 
       </section>
