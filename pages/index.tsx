@@ -1,15 +1,5 @@
 import Image from "next/image";
-import localFont from "next/font/local";
-const geistSans = localFont({
-  src: "./fonts/GeistVF.woff",
-  variable: "--font-geist-sans",
-  weight: "100 900",
-});
-const geistMono = localFont({
-  src: "./fonts/GeistMonoVF.woff",
-  variable: "--font-geist-mono",
-  weight: "100 900",
-});
+
 
 export default function Home() {
   return (
@@ -28,7 +18,7 @@ export default function Home() {
           Mahmoud Mohamed Elsayed
         </h1>
         <p className="text-lg text-[#7c7c7c]">
-          I'm MERN Stack Developer With a passion for developing and designing
+          I&apos;m MERN Stack Developer With a passion for developing and designing
           programs to assist engineers in designing, constructing, and analyzing
           systems, as well as maintaining systems, I have acquired extensive
           work skills in technical engineering. I am conscientious, hardworking,

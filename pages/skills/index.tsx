@@ -33,7 +33,7 @@ export default function TechnologiesPage() {
         </h2>
         <p>
           Developing clean architecture projects written with clean code is
-          testament to a developer's commitment to excellence and
+          testament to a developer&apos;s commitment to excellence and
           professionalism. By adhering to architectural principles such as
           separation of concerns, dependency inversion, and clear boundaries
           between layers,developers can implement logical functionalities in a
@@ -46,7 +46,7 @@ export default function TechnologiesPage() {
         </h2>
         <p>
           Efficiently handling logical functionalities within a software project
-          showcases a developer's prowess in problem-solving and system design.
+          showcases a developer&apos;s prowess in problem-solving and system design.
           By breaking down complex processes into smaller, manageable units of
           logic, developers can create code that is not only easier to
           understand but also more maintainable and extensible.
