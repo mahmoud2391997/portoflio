@@ -4,9 +4,11 @@ import "@/styles/globals.css";
 import type { AppProps } from "next/app";
 
 export default function App({ Component, pageProps }: AppProps) {
-  return  <div className="w-screen h-screen bg-[#080808] flex flex-col items-center justify-center relative font-sans">
-<Navbar/>
-   <Component {...pageProps} />;
-   <Footer/>
-  </div>
+  return (
+    <div className="w-full min-h-screen h-auto bg-[#080808] flex flex-col items-center justify-center relative font-sans">
+      <Navbar />
+      <Component {...pageProps} />;
+      <Footer />
+    </div>
+  );
 }
