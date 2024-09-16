@@ -1,6 +1,6 @@
 export default function TechnologiesPage() {
   return (
-    <div className="grid xl:grid-cols-5 lg:grid-cols-4 lg:w-[70%] w-[90%] md:grid-cols-3 sm:grid-cols-2 grid-cols-1 h-auto my-28 gap-6 text-white md:my-auto">
+    <div className="grid lg:grid-cols-5 lg:w-[80%] xl:w-[70%] w-[90%] md:grid-cols-3 sm:grid-cols-2 grid-cols-1 h-auto my-36 gap-6 text-white lg:my-auto">
       <section className=" bg-[#7c7c7c] rounded w-full flex flex-col justify-between h-[300px]">
         <h2 className="text-2xl w-full text-center">
           Client Side Technologies

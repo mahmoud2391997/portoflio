@@ -1,6 +1,6 @@
 export default function TechnologiesPage() {
   return (
-    <div className="grid xl:grid-cols-4 md:grid-cols-2 grid-cols-1 my-36 lg:m-0 w-[70%] xl:max-h-[540px]  gap-6 text-white x">
+    <div className="grid xl:grid-cols-4 md:grid-cols-2 grid-cols-1 my-36 xl:m-0 w-[70%] xl:max-h-[540px]  gap-6 text-white x">
       <section className="h-full bg-[#7c7c7c] rounded w-full flex flex-col justify-start p-3 relative">
         <h2 className="text-3xl w-full text-center mb-5">
           Creating Pixel Perfect UI As Figma Design
@@ -40,7 +40,7 @@ export default function TechnologiesPage() {
           way that is both robust and efficient.
         </p>
       </section>
-      <section className="h-full bg-[#7c7c7c] rounded w-full flex flex-col justify-start p-3 relative">
+      <section className="h-full bg-[#7c7c7c] rounded w-full flex flex-col justify-start p-2 relative">
         <h2 className="text-3xl w-full text-center mb-14">
           Handling Logical Functionalities
         </h2>

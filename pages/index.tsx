@@ -13,7 +13,7 @@ const geistMono = localFont({
 
 export default function Home() {
   return (
-    <section className="w-[70%] md:h-[60%] h-fit flex-col md:static my-28 items-center md:items-stretch flex md:flex-row-reverse md:mb-0">
+    <section className="w-[70%] md:w-[90%] lg:w-[70%] md:h-[60%] h-fit flex-col md:static md:my-16 my-20 items-center md:items-stretch flex md:flex-row-reverse lg:my-0">
       <div className="my-auto ">
         <Image
           src="/portfolio.jpg"
